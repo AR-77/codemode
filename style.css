@@ -1,0 +1,367 @@
+header{
+background-image: url(images/banner.png);
+height: 510px;
+background-size: contain;
+background-repeat: no-repeat;
+}
+
+.navbar-default {
+    background-color: rgba(116, 85, 138, 0.7);
+    border-color: #74558a;
+ }
+ .navbar-brand{
+ 	height:auto;
+ 	padding:0px;
+ 	margin-left: 0px;
+ }
+ .navbar-default .navbar-nav > li > a {
+ 	color:white;
+ 	font-family:Istok;
+ 	font-weight:bold;
+ 	font-size:14px;
+ 	text-transform:uppercase;
+ }
+ .navbar-nav{
+ 	padding-top: 9px;
+	padding-bottom: 5px;
+	padding-left: 100px;
+ }
+ .liberte{
+ 	border-bottom:1px solid #91c5a9;
+ 	padding-bottom:50px;
+ }
+ .liberte h1{
+ 	font-family:Istok;
+ 	font-weight:bold;
+ 	font-size:40px;
+ 	color:#775ba3;
+ }
+ .liberte p{
+ 	font-family:Istok;
+ 	font-weight:bold;
+ 	font-size:23px;
+ 	color:#4b3f55;
+ }
+ .posterite{
+ 	background-color:#fcfcfc;
+ 	border-bottom:1px solid #91c5a9;
+ 	padding-bottom:50px;
+ }
+
+ .posterite h1{
+ 	font-size:40px;
+ 	font-weight: bold;
+ 	font-family: Istok;
+ 	color:#775ba3;
+ }
+ .posterite  h1 span{
+ 	font-family:MinionPro;
+ 	font-weight:normal;
+ }
+ .posterite p{
+ 	font-family: Istok;
+ 	font-weight: bold;
+ 	font-size:13px;
+ 	font-weight: bold;
+ 	color:#4b3f55;
+ }
+ .posterite p span{
+ 	color:#91c5a9;
+ 	font-size:43px;
+	line-height: 1px;
+ }
+ .posterite img{
+ 	display: block;
+    margin: 0 auto 30px;
+
+ }
+ hr{
+ 	color:#91c5a9;
+ }
+ .equipe{
+ 	padding-bottom: 50px;
+ }
+ .equipe h1{
+ 	font-size:40px;
+ 	font-weight: bold;
+ 	font-family: Istok;
+ 	color:#775ba3;
+ 	margin-bottom:40px;
+ }
+ .equipe img{
+ 	border-bottom:3px solid #91c5a9;
+ 	width:100%;
+ }
+ .equipe h2{
+ 	color:#91c5a9;
+ 	font-family: Istok;
+ 	font-size:15px;
+ 	text-transform: uppercase;
+ 	border-bottom:3px solid #91c5a9;
+ 	margin:0px;
+ 	padding:15px 0px;
+ }
+ .equipe h2 span{
+ 	font-size: 12px;
+ 	font-weight: normal;
+ }
+ .equipe p{
+ 	font-size:13px;
+ 	color:#4b3f55;
+ 	font-family: Istok;
+ }
+
+ .facebook{
+ 	background-color: #3b5998
+ }
+ .google{
+ 	background-color:#d14333;
+ }
+ .dribbble{
+ 	background-color:#ea4c88;
+ }
+ .twitter{
+ 	background-color:#00aced;
+ }
+ .youtube{
+ 	background-color:#c70c0c;
+ }
+ .nav > li > a:focus, .nav > li > a:hover {
+    text-decoration: none;
+    background-color: initial;
+}
+.nav-justified > li > a{
+	font-size:23px;
+	color:white;
+}
+.features{
+	background-color:#775ba3;
+	padding-bottom: 50px;
+	padding-top: 40px;
+}
+.features h1{
+	font-size:35px;
+	font-family: Istok;
+    color:white;
+}
+.features p{
+	font-size:14px;
+	font-family: Istok;
+    color:white;
+}
+#feature{width: 1140px;}
+.features img{
+	width:95%;
+}
+.buzz{
+	padding-bottom:50px;
+	padding-top:30px;
+}
+ .buzz h1{
+ 	font-size:40px;
+ 	font-weight: bold;
+ 	font-family: Istok;
+ 	color:#775ba3;
+ 	text-transform: uppercase;
+ }
+ .fa-heart{
+ 	color:#ff1717;
+ }
+ .buzz img{
+ 	float:left;
+ }
+ .buzz p{
+ 	font-family: Istok;
+ 	font-size: 27px;
+ 	color:#4b3f55;
+ }
+ .name{
+ 	font-size:16px!important;
+ 	color:#927db5!important;
+ 	text-transform: uppercase;
+ 	float:right;
+ }
+ .right{
+ 	float:right;
+    clear: right;
+    font-size: 40px;
+    color: #91c5a9;
+    font-family: lucidahandwritten;
+}
+.left{
+    font-size: 40px;
+    color: #91c5a9;
+    font-family: lucidahandwritten;
+}
+ .buzz{
+ 	border-bottom:1px solid #91c5a9;
+ }
+ .portfolio{
+ 	padding-bottom: 50px;
+	padding-top: 20px;
+	position: relative;
+ }
+  .portfolio h1{
+ 	font-size:40px;
+ 	font-weight: bold;
+ 	font-family: Istok;
+ 	color:#775ba3;
+ 	text-transform: uppercase;
+ }
+ .portmenu{
+ 	margin-bottom:25px;
+ }
+ .portmenu a{
+ 	color: #927db5;
+    text-decoration: none;
+    font-family: istok;
+    font-weight: bold;
+    font-size: 16px;
+    text-transform: uppercase;
+}
+.portfolio img{
+	float:left;
+	width: 285px;
+ }
+ .list-inline a:hover{
+ 	border-bottom:2px solid #91c5a9;
+ }
+ .colored{
+ 	width:initial !important;
+ 	position: absolute;
+ 	left: -50px;
+    top: 40px;
+ }
+.snippet{
+	background-color: #91c5a9;
+	padding-bottom:20px;
+	padding-top:15px;
+}
+.snippet h1{
+	font-family: Istok;
+	font-weight:bold;
+	color:white;
+	font-size:23px;
+}
+.snippet p{
+	font-family: Istok;
+	font-weight:bold;
+	color:white;
+	font-size:14px;
+}
+#center{
+	text-align: center;
+}
+.btn-default {
+    color: white;
+    background-color: #419568;
+    border-color: #419568;
+    font-family: Istok;
+    font-size: 12px;
+}
+.snippet a{
+	color:white;
+}
+.btn{
+	margin-bottom: 11px;
+}
+label{
+	color:white;
+	font-family: istok;
+	font-size: 14px;
+}
+.form-control{
+	border:1px solid #54865d;
+}
+footer{
+	background-color:#54865d;
+	border-top:1px solid #54865d;
+	border-bottom:1px solid #54865d;
+}
+footer h1{
+	font-family: Istok;
+	font-size:14px;
+	color:white;
+}
+footer a{
+	color:white;
+}
+.footernav a{
+	color: white;
+	font-weight: bold;
+	font-size: 12px;
+	text-transform: uppercase;
+}
+.footernav a:hover{
+	text-decoration: none !important;
+}
+.footernav{
+	margin-top: 18px;
+}
+span.img {
+    display: inline-block;
+    width: 285px;
+    height:260px;
+    position: relative;
+    cursor: pointer;
+}
+._img {
+    width: 100%;
+    position: absolute;
+}
+._hoverImg {
+    display: none;
+    width: 100%;
+}
+span.img:hover ._hoverImg {
+	display: block;
+	opacity: 0.8;
+}
+/*-------------MEDIA--------------------*/
+@media screen and (max-width: 1170px){
+	.portfolio img{width: 25%}
+}
+@media screen and (max-width: 991px){
+	.container{width: 100%}
+	header{height:370px !important;}
+	.equipe h2{font-size:14px;}
+	.equipe h2 span{font-size:11px;}
+	.navbar-nav{padding-left:14px !important;}
+	footer h1{text-align: center;}
+	.footernav{text-align: center;}
+}
+@media screen and (max-width: 767px){
+	.buzz p{font-size:22px;}
+	header{height:286px !important;}
+	.liberte h1{font-size:30px;}
+	.liberte p{font-size:18px;}
+	.posterite img{display: none;}
+	.posterite p{padding-bottom: 28px;}
+	.features h1{font-size:21px;}
+	.features p{font-size:13px;}
+	.equipe h2{font-size:10px;}
+	.equipe h2 span{font-size:8px;}
+}
+@media screen and (max-width: 600px){
+	header{height: 225px !important;}
+	.portfolio img{width: 50%}
+}
+@media screen and (max-width: 479px){
+	.colored{display: none;}
+	header{height:180px !important;}
+	.liberte h1{font-size:23px;}
+	.liberte p{font-size:14px;}
+	.posterite h1{font-size:23px;}
+	.posterite p{font-size:12px; padding-bottom:18px;}
+	.portfolio h1{font-size:23px;}
+	.portmenu a{font-size:14px;}
+	.snippet p{font-size:13px;}
+	.footernav a{font-size:10px;}
+	.footernav h1{font-size:12px;}
+	#featurecol{width:100%;}
+	.buzz h1{font-size:29px;}
+	.buzz img {float: initial;display: block; margin: 0 auto;}
+	.buzz p{font-size:18px;}
+	.name{font-size:11px;}
+	#equipecol{width:100%; padding-bottom: 20px;}
+}
